@@ -7,6 +7,9 @@ import base64
 import warnings
 warnings.simplefilter("ignore", category=FutureWarning)
 
+#Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
+st.set_page_config(page_title="Evolucion nominal/inflacion", page_icon=":📊:", layout="wide")
+
 # Use local CSS
 def local_css(file_name):
     with open(file_name) as f:
