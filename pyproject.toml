@@ -2,7 +2,7 @@
 name = "Variables financieras"
 version = "0.1.0"
 description = ""
-authors = [""]
+authors = ["Walter Gomez"]
 
 [tool.poetry.dependencies]
 python = "3.10.4"

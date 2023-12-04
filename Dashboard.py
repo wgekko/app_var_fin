@@ -25,7 +25,7 @@ def set_background(png_file):
     ''' % bin_str
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
-set_background("images/main.jpg")
+set_background("images/fondo_muro_1.jpg")
 
 # side bar--- y redimencionar la imagen
 #img = cv2.imread("images/analisisfin.png")
